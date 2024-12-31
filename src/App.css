@@ -1,0 +1,14 @@
+.registered{
+  width: 550px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .container{
+   width: 300px;
+}
+.container.registered{
+  width: 300px;
+  }
+}
