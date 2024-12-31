@@ -21,6 +21,9 @@ Form Validation
 Technologies Used :-
 
 1.React.js: For building the form interface.
+
 2.React-DOM: To render the components in the browser
+
 3.CSS Modules or Styled-Components for scoped styling.
+
 4.Frameworks like Tailwind CSS, Bootstrap, or Material-UI for responsive design.
