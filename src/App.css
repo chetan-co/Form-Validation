@@ -1,5 +1,5 @@
 .registered{
-  width: 550px;
+  width: 100%;
 }
 
 
@@ -9,6 +9,6 @@
    width: 300px;
 }
 .container.registered{
-  width: 100%;
+  width: 300px;
   }
 }
